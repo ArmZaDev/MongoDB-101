@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6421a6d2126a4c19fe586624"
+  },
+  "name": "sasuke",
+  "age": 17
+},{
+  "_id": {
+    "$oid": "6421a6d2126a4c19fe586625"
+  },
+  "name": "naruto",
+  "age": 17
+},{
+  "_id": {
+    "$oid": "6421a6d2126a4c19fe586626"
+  },
+  "name": "hinata",
+  "age": 16
+},{
+  "_id": {
+    "$oid": "6421a6f2126a4c19fe586627"
+  },
+  "name": "sakura",
+  "age": 16
+}]
